@@ -1,0 +1,34 @@
+VSD01  Mineral Water       20
+VSD02  Heated Water        25
+VSD03  Milk Tea            25
+VSD04  Black Tea           10
+VSD05  Lemon Tea           15
+VSD06  Coffee              20
+VSD07  Coke(500 ml)        70
+VSD08  Sprite(500 ml)      70
+VSD09  Juice(250 ml)       30
+VSD10  Lassi(200 ml)       90
+VAP11  Fries(80 gm)        90
+VAP12  Peanuts             100
+VAP13  Pakoda(1 plate)     50
+VAP14  Samosa(1 pcs)       20
+VAP15  Breadchops          25
+VMC16  Fried rice(Veg)     70
+NMC17  Fried rice(NonVeg)  90
+NMC18  Chicken Momo        110
+NMC19  Chicken C.Momo      120
+NMC20  Buff Momo           90
+VMC21  Veg Momo            80
+VMC22  Veg C.Momo          90
+NMC23  Chicken Biryani     100  
+VMC24  Veg Chowmein        80
+NMC25  Chicken Chowmein    100
+NMC26  Chicken Burger      120
+VMC27  Veg Burger          100
+VMC28  Vataura Curry       80
+VDS29  Dahi                40
+VDS30  Icecream            70
+VDS31  Pastry              70
+VPD32  WaiWai Noodles      20
+VPD33  Potato Chips        50
+
